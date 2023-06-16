@@ -1,0 +1,11 @@
+dpkg
+dpkg-db-backup
+dpkg-deb
+dpkg-divert
+dpkg-maintscript-helper
+dpkg-query
+dpkg-realpath
+dpkg-split
+dpkg-statoverride
+dpkg-trigger
+t.tmp
